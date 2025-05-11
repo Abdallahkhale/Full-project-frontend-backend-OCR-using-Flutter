@@ -1,4 +1,4 @@
-# Receipt OCR Web Application
+# OCR Web Application
 
 ## Project Overview
 
